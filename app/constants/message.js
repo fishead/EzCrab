@@ -1,0 +1,2 @@
+export const MESSAGE_RECEIVE = 'MESSAGE_RECEIVE';
+export const MESSAGE_CLEAN = 'MESSAGE_CLEAN';
